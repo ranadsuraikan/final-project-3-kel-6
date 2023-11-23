@@ -1,0 +1,110 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#navbarhead {
+  box-shadow: 2px 2px 4px #00000036;
+}
+
+.txt {
+  padding-left: 30px;
+}
+
+.enam {
+  color: #8d32f0;
+}
+
+#warna {
+  background: linear-gradient(45deg, #e63588, #8d32f0);
+}
+
+.jumbotron {
+  background-image: url(scr.png);
+  background-size: cover;
+  height: 120vh;
+  margin-top: -74px;
+  background-position: center;
+}
+
+.jumbotron {
+  padding-top: 180px;
+}
+
+#tombol-our-works {
+  background: linear-gradient(45deg, #e63588, #8d32f0);
+  border: none;
+}
+
+#warna-1 {
+  background-color: #fdf8e4;
+}
+
+#warna-2 {
+  background-color: #f0f3fa;
+}
+
+#warna-3 {
+  background-color: #fef0f0;
+}
+
+#btn-card-1 {
+  background: linear-gradient(45deg, #e63588, #8d32f0);
+}
+
+#btn-card-2 {
+  background: linear-gradient(45deg, #e63588, #8d32f0);
+}
+
+#btn-card-3 {
+  background: linear-gradient(45deg, #e63588, #8d32f0);
+}
+
+#about {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.about-dan-card {
+  background-image: url(ABOUT.png);
+}
+
+.bg-holder {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  will-change: transform, opacity, filter;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.bg-holder.bg-right {
+  left: auto;
+  right: 0;
+}
+
+#txt-name {
+  height: 300px;
+}
+
+.d {
+  margin-top: 100px;
+  background-size: cover;
+  height: 80vh;
+}
+
+.warnaihear {
+  color: #e63588;
+}
+
+#our-brand {
+  background-color: #020e35;
+}
